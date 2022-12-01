@@ -21,7 +21,7 @@ public class Main extends JFrame {
     }
 
     public static void main(String[] args) {
-
+        //dsada
         EventQueue.invokeLater(() -> {
             Main ex = new Main();
             ex.setVisible(true);
